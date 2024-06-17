@@ -17,13 +17,13 @@
 
 * 각 프로젝트를 클릭 시 설명 홈페이지로 이동 / 돌아오기 기능 추가
    
-4. 스킬
+3. 스킬
    - 프로그래밍언어 : C, javascript
    - 협업 : github
    - 도구 : VScode, Visual Studio
    - 배우고 싶은 것 : python
 
-5. 연락
+4. 연락
    - 이메일 : hywn33@gmail.com
    - 인스타그램 : hy_n03
    - github :  https://github.com/hyoeun24

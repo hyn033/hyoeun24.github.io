@@ -1,6 +1,6 @@
 홈페이지 소개
-   github 주소 : https://github.com/hyoeun24/hyoeun24.github.io/
-   웹 주소 : https://hyoeun24.github.io
+- github 주소 : https://github.com/hyoeun24/hyoeun24.github.io/
+- 웹 주소 : https://hyoeun24.github.io
 
 ## [hyoeun's Profile](https://hyoeun24.github.io)
 

@@ -1,6 +1,6 @@
 홈페이지 소개
 
-## [hyoeun's Profile](https://hyoeun24.github.io/hyoeun's Profile)
+## [hyoeun's Profile](https://hyoeun24.github.io/Profile)
 
 1. 프로필
    - 자기 소개 (온오프 기능)

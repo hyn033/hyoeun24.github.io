@@ -1,0 +1,251 @@
+html{
+  display:flex;
+  justify-content:center;
+  font-family: "Kanit", sans-serif;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+body{
+  background-image:url("/20242446(과제)/img/background.jpg");
+  background-size: cover;
+}
+#headerBar{ 
+  height:100px;
+  width: 1500px;
+  position:fixed;
+  background-image:url("https://blog.kakaocdn.net/dn/MUL3A/btq6qnvn899/qTNGJGiT6fnK7EWThWwQG0/img.jpg");
+  background-size: cover;
+}
+.headerName{
+  background-color:#3f6827b6;
+  border: solid #ffc400;
+  color: #ffbd07;
+  border-radius: 200px; 
+  text-align:center;
+  width:450px;
+  height: 80px;
+  font-size:3em;
+  margin-top:7px;
+  margin-left: 540px;
+}
+#container{
+  padding-top: 120px;
+  border: solid #3f6827b6;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  height:2800px;
+  width: 1500px;
+  background-image:url("https://blog.kakaocdn.net/dn/MUL3A/btq6qnvn899/qTNGJGiT6fnK7EWThWwQG0/img.jpg");
+  background-size: cover;
+}
+#name_profile{
+  margin-left:60px;
+  font-size:30px;
+  border: solid #3f6827b6;
+  border-bottom:none;
+  color: #ffbd07;
+  background-color:#3f6827b6;
+  width:110px;
+  padding-left:10px;
+  text-align:center;
+}
+#profile{
+  background-color:#fff6dfec;
+  border: solid #3f6827b6;
+  height:500px;
+  width:1400px;
+  margin-left:50px;
+  display:flex;
+}
+.face{
+  margin-top:50px;
+  margin-left:30px;
+  border-radius: 200px; 
+  height:400px; 
+  width:400px;
+}
+.user1{
+  font-size:22px;
+  margin-top:40px;
+  padding:10px;
+  background-color:#71992200;
+  border:1px soild #ccc;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  cursor:pointer;
+}
+.user2{
+  font-size:22px;
+  margin-left:40px;
+  margin-top:40px;
+  padding:10px;
+  background-color:#71992200;
+  border:1px soild #ccc;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  cursor:pointer;
+}
+#introduce{
+  margin-left:60px;
+  text-align:center;
+  font-size:1.5em;
+  line-height: 50px;
+}
+#introduce2{
+  margin-left:80px;
+  font-size:1.5em;
+  line-height: 50px;
+  text-align:center;
+}
+.hidden{
+  display:none;
+}
+#menu{
+  background-color:#fffbf3ec;
+  display: flex;
+  height:90px;
+  margin-top:60px;
+  margin-bottom:50px;
+}
+.menu_project{
+  font-size:30px;
+  width:250px;
+  height: 50px;
+  margin-top:20px;
+  margin-left: 190px;
+  text-align:center;
+}
+.menu_skill{
+  font-size:30px;
+  width:200px;
+  height: 50px;
+  margin-top:20px;
+  margin-left: 220px;
+  text-align:center;
+}
+.menu_contact{
+  font-size:30px;
+  width:200px;
+  height: 50px;
+  margin-top:20px;
+  margin-left: 200px;
+  text-align:center;
+}
+#name_projects{
+  margin-left:50px;
+  font-size:30px;
+  border: solid #3f6827b6;
+  border-bottom:none;
+  color: #ffbd07;
+  background-color:#3f6827b6;
+  width:140px;
+  padding-left:10px;
+}
+#project{
+  background-color:#fff6dfd4;
+  border: solid #3f6827b6;
+  height:850px;
+  width:1390px;
+  margin-left: 50px;
+  margin-bottom:100px;
+}
+.projects1{
+  display: flex;
+  margin-top:40px;
+  margin-left:40px;
+}
+.projects2{
+  display: flex;
+  margin-top:50px;
+  margin-left:250px;
+}
+.project{
+  border:solid #3f6827b6;
+  height:300px;
+  width:400px;
+  margin:20px;
+  text-align:center;
+  font-size:1.3em;
+}
+#name_skills{
+  margin-left:50px;
+  font-size:30px;
+  border: solid #3f6827b6;
+  border-bottom:none;
+  color: #ffbd07;
+  background-color:#3f6827b6;
+  width:100px;
+  padding-left:10px;
+}
+#skill{
+  background-color:#fffbf3ec;
+  border: solid #3f6827b6;
+  height:200px;
+  width:800px;
+  margin-left: 50px;
+  font-size:30px;
+  display:flex;
+}
+.skill1{
+  margin-left:20px;
+  margin-top:40px;
+  height:100px;
+  width:450px;
+}
+.skill2{
+  margin-top:20px;
+  margin-left:20px;
+  height:100px;
+  width:400px;
+}
+.skill_types{
+  height:20px;
+  width:400px;
+  margin-top:20px;
+}
+.skill_img{
+  margin-top:60px;
+  margin-left:40px;
+  border-radius: 200px; 
+  height:300px; 
+  width:500px;
+  border: solid #3f6827b6;
+}
+#name_contact{
+  margin-top:100px;
+  margin-left:350px;
+  font-size:30px;
+  border: solid #3f6827b6;
+  border-bottom:none;
+  color: #ffbd07;
+  background-color:#3f6827b6;
+  width:130px;
+  padding-left:10px;
+}
+#contact{
+  background-color:#fff6dfd4;
+  border: solid #3f6827b6;
+  height:300px;
+  width:800px;
+  margin-left: 350px;
+  font-size:30px;
+}
+.contact{
+  margin-top:40px;
+}
+#box{
+  background-color:#fff6dfd4;
+  border: solid #3f6827b6;
+  width:1500px;
+  height:1200px;
+  text-align:center;
+  font-size:2em;
+}
+.pictures{
+  width:1000px;
+  height:500px;
+  margin-top:100px;
+}

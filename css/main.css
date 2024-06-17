@@ -6,7 +6,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  background-image:url("/20242446(과제)/img/background.jpg");
+  background-image:url("/img/background.jpg");
   background-size: cover;
 }
 #headerBar{ 
